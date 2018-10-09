@@ -111,11 +111,12 @@ input:checked+.toggle+.bear-body {
   background-image: radial-gradient(circle at 4px, white 1px, #3d2526 2px);
 }
 
-/*.bear-body .eye.left {
+.bear-body .eye.left {
   left: 20px;
   animation: blink 3s ease-in-out infinite;
 }
-.bear-body .eye.right {
+
+/*.bear-body .eye.right {
   left: 46px;
   animation: blink 3.5s ease-in-out infinite;
 }
