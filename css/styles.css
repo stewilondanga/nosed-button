@@ -116,12 +116,12 @@ input:checked+.toggle+.bear-body {
   animation: blink 3s ease-in-out infinite;
 }
 
-/*.bear-body .eye.right {
+.bear-body .eye.right {
   left: 46px;
   animation: blink 3.5s ease-in-out infinite;
 }
 
-@keyframes blink {
+/*@keyframes blink {
   85% {
     transform: rotateX(0deg);
   }
