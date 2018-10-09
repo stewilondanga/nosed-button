@@ -93,10 +93,11 @@ input:checked+.toggle+.bear-body {
   background: radial-gradient(#dcc8a3 5px, #7e2804 6px);
 }
 
-/*.bear-body::before {
+.bear-body::before {
   left: -12.5px;
 }
-.bear-body::after {
+
+/*.bear-body::after {
   right: -12.5px;
 }
 .bear-body .eye {
