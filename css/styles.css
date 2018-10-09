@@ -61,10 +61,11 @@ body {
   transform: rotate(-45deg);
 }
 
-/*input:checked + .toggle:after {
+input:checked+.toggle:after {
   color: #ffffff;
 }
-input:checked + .toggle .toggle__handler {
+
+/*input:checked + .toggle .toggle__handler {
   transform: translate3d(49px, 0, 0) rotate(0);
 }
 input:checked + .toggle + .bear-body {
