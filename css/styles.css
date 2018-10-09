@@ -69,11 +69,11 @@ input:checked+.toggle .toggle__handler {
   transform: translate3d(49px, 0, 0) rotate(0);
 }
 
-/*input:checked + .toggle + .bear-body {
+input:checked+.toggle+.bear-body {
   transform: rotateY(180deg);
 }
 
-.bear-body {
+/*.bear-body {
   position: relative;
   border-radius: 20px 10px 5px;
   border-bottom: 150px solid #7e2804;
