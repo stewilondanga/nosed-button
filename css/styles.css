@@ -26,12 +26,12 @@ body {
   transform: translate3d(-50%, -50%, 0);
 }
 
-/*.toggleWrapper input {
+.toggleWrapper input {
   position: absolute;
   left: -99em;
 }
 
-.toggle {
+/*.toggle {
   cursor: pointer;
   display: inline-block;
   position: absolute;
