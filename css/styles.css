@@ -101,7 +101,7 @@ input:checked+.toggle+.bear-body {
   right: -12.5px;
 }
 
-/*.bear-body .eye {
+.bear-body .eye {
   position: absolute;
   top: 18px;
   background: #3d2526;
@@ -110,7 +110,8 @@ input:checked+.toggle+.bear-body {
   border-radius: 50%;
   background-image: radial-gradient(circle at 4px, white 1px, #3d2526 2px);
 }
-.bear-body .eye.left {
+
+/*.bear-body .eye.left {
   left: 20px;
   animation: blink 3s ease-in-out infinite;
 }
