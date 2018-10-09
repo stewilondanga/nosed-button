@@ -73,7 +73,7 @@ input:checked+.toggle+.bear-body {
   transform: rotateY(180deg);
 }
 
-/*.bear-body {
+.bear-body {
   position: relative;
   border-radius: 20px 10px 5px;
   border-bottom: 150px solid #7e2804;
@@ -82,7 +82,8 @@ input:checked+.toggle+.bear-body {
   height: 0;
   width: 94px;
 }
-.bear-body::before, .bear-body::after {
+
+/*.bear-body::before, .bear-body::after {
   content: '';
   position: absolute;
   height: 25px;
