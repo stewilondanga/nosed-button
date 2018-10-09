@@ -97,10 +97,11 @@ input:checked+.toggle+.bear-body {
   left: -12.5px;
 }
 
-/*.bear-body::after {
+.bear-body::after {
   right: -12.5px;
 }
-.bear-body .eye {
+
+/*.bear-body .eye {
   position: absolute;
   top: 18px;
   background: #3d2526;
