@@ -121,7 +121,7 @@ input:checked+.toggle+.bear-body {
   animation: blink 3.5s ease-in-out infinite;
 }
 
-/*@keyframes blink {
+@keyframes blink {
   85% {
     transform: rotateX(0deg);
   }
@@ -130,7 +130,7 @@ input:checked+.toggle+.bear-body {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
